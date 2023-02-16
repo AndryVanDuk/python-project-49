@@ -38,6 +38,8 @@ def back_ans(ans):
         return 'no'
     elif ans == 'no':
         return 'yes'
+    else:
+        return 'yes or no'
 
 
 if __name__ == '__main__':
