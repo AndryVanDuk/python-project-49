@@ -25,8 +25,8 @@ make package-install
 * Even number: `brain-even`
 * Calculate the expression: `brain-calc`
 * Greatest common divisor: `brain-gcd`
-# Guess missing number: `brain-progression`
-# Prime number: `brain-prime`
+* Guess missing number: `brain-progression`
+* Prime number: `brain-prime`
 
 ## Description
 
