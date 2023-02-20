@@ -10,17 +10,14 @@ def main():
 
 
 def game_even():
-    num_atem = 0
-    while num_atem < 3:
+    for _ in range(3):
         quest = random.randint(1, 1000)
         print(f'Question: {quest}')
         answer_player = prompt.string('Your answer: ')
         if is_even(quest) and answer_player == 'yes':
             print('Correct!')
-            num_atem += 1
         elif not is_even(quest) and answer_player == 'no':
             print('Correct!')
-            num_atem += 1
         else:
             print(f"{answer_player} is wrong answer ;(. Correct answer was {back_ans(answer_player)}.")
             print(f"Let's try again, {cli.name}!")
