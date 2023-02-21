@@ -34,12 +34,13 @@ make package-install
 ### Игра: "Проверка на чётность"
 The essence of the game is as follows: the user is shown a random number.
 And he needs to answer 'yes' if the number is even, or 'no' if it is odd:
-[![asciicast](https://asciinema.org/a/560340.svg)](https://asciinema.org/a/560340)
+[![asciicast](https://asciinema.org/a/561485.svg)](https://asciinema.org/a/561485)
 
 
 ### Игра: "Калькулятор"
-
-
+The essence of the game is as follows: the user is shown a random mathematical
+expression that needs to be calculated and written down the correct answer.
+[![asciicast](https://asciinema.org/a/561486.svg)](https://asciinema.org/a/561486)
 
 ### Игра: "НОД" 
 
