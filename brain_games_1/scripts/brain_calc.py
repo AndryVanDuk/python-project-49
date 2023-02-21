@@ -21,7 +21,7 @@ def game_calc():
         oper = random.choice(list(action))
         quest = action[oper](a, b)
         print(f'Question: {a} {oper} {b}')
-        answer_player = prompt.string('Your answer: ')
+        answer_player = prompt.integer('Your answer: ')
         if int(answer_player) == quest:
             print('Correct!')
         else:
