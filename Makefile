@@ -22,6 +22,9 @@ lint:
 brain-even:
 	poetry run brain-even
 
+brain-gcd:
+	poetry run brain-gcd
+
 reinstall:
 	pip install --user dist/*.whl --force-reinstall
 
