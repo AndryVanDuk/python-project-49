@@ -4,7 +4,7 @@ import random
 RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-def game_even():
+def get_game():
     quest = random.randint(1, 1000)
 
     if is_even(quest):
