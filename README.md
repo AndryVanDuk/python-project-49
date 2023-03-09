@@ -68,7 +68,10 @@ The essence of the game is as follows: the user shows two random numbers, for ex
 25 50. The user must calculate and introduce the largest total divider of these numbers.
 [![asciicast](https://asciinema.org/a/565155.svg)](https://asciinema.org/a/565155)
 
-### Game: ""
+### Game: "Progression"
+The essence of the game is as follows: the user is shown a series of numbers, forming an
+arithmetic progression, replacing any of the numbers with two dots. The player must determine this number.
+[![asciicast](https://asciinema.org/a/565973.svg)](https://asciinema.org/a/565973)
 
 
 ### Game: ""
