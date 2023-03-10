@@ -74,6 +74,9 @@ arithmetic progression, replacing any of the numbers with two dots. The player m
 [![asciicast](https://asciinema.org/a/565973.svg)](https://asciinema.org/a/565973)
 
 
-### Game: ""
+### Game: "Is prime?"
+The essence of the game is as follows: the user is shown a random number.
+And he needs to answer "yes" if the number is prime, or "no" if it is composite:
+[![asciicast](https://asciinema.org/a/566283.svg)](https://asciinema.org/a/566283)
 
 ### Good luck and have a fun game! 🤚
