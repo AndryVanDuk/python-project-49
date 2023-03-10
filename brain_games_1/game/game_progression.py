@@ -11,9 +11,9 @@ def get_game():
     data = list()
     data.append(start)
 
-    for i in range(length-1):
-        data.append(data[i]+step)
-    index = random.randint(0, length-1)
+    for i in range(length - 1):
+        data.append(data[i] + step)
+    index = random.randint(0, length - 1)
     data = [str(x) for x in data]
     answer = data[index]
     data[index] = '..'

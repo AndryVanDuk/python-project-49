@@ -18,5 +18,3 @@ def logic_game(game):
             print(f'Let\'s try again, {cli.name}!')
             return
     print(f'Congratulations, {cli.name}!')
-
-
